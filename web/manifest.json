@@ -1,0 +1,35 @@
+{
+    "name": "Field & Co.",
+    "short_name": "Field & Co.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F4EFE6",
+    "theme_color": "#1F4D3A",
+    "description": "A small shop with a cart and a running total.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
