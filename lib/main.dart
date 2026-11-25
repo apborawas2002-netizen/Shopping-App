@@ -28,7 +28,7 @@ class ShoppingApp extends StatelessWidget {
 
   final bool firebaseReady;
 
-  @overrides
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Field & Co.',
